@@ -1,5 +1,5 @@
 {
-  "name": "minimum-object",
+  "name": "index-of-min",
   "version": "1.0.0",
   "description": "Finds the minimum value or an object with the min property in an array",
   "main": "index.js",
