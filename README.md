@@ -1,2 +1,2 @@
-# min-object
- Finds the index of an object with the smallest value of a given property inside an array
+# index-of-min
+ Finds the minimum value or an object with the min property in an array
